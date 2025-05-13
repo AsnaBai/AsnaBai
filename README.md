@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Cloud Technologies (e.g., Google Cloud, AWS)**
 
-- 💬 Ask me about **React , OpenCV**
+- 💬 Ask me about **React , OpenCV , C# , etc**
 
 - 📫 How to reach me **asnabai205@gmail.com**
 
